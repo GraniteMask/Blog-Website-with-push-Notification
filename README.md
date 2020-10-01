@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Marioplan
+A basic blog type website made by using ReactJs and Firebase
+Link: https://net-ninja-maioplan.web.app/
 
 ## Available Scripts
 
