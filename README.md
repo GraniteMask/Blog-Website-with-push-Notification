@@ -1,5 +1,5 @@
 # Marioplan
-A basic blog type website made by using ReactJs and Firebase
+A basic blog-type Website made by using React.js and Firebase.</br>
 Link: https://net-ninja-maioplan.web.app/
 
 ## Available Scripts
